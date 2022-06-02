@@ -9,7 +9,7 @@
                         {{-- <x-jet-application-mark class="block h-9 w-auto" /> --}}
                         {{-- <x-slot name="logo"> --}}
                             {{-- <x-jet-authentication-card-logo /> --}}
-                            <x-applogo2/>
+                            <x-app-logo2/>
                         {{-- </x-slot> --}}
                     </a>
                 </div>
